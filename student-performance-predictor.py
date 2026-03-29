@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
+
 # Create Sample dataset
 data = {
     "hours_study": [1, 2, 3, 4, 5, 6, 7, 8],
