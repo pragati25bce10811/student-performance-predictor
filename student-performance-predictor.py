@@ -14,10 +14,6 @@ data = {
 
 # Convert to DataFrame
 df = pd.DataFrame(data)
-
-# Add Graph
-import matplotlib.pyplot as plt
-
 plt.scatter(df["hours_study"], df["marks"])
 plt.xlabel("Study Hours")
 plt.ylabel("Marks")
