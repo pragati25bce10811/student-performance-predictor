@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-# Sample dataset
+# Create Sample dataset
 data = {
     "hours_study": [1, 2, 3, 4, 5, 6, 7, 8],
     "attendance": [50, 60, 65, 70, 75, 80, 85, 90],
