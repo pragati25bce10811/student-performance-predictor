@@ -1,8 +1,5 @@
-Student Performance Predictor
-
 Project Title
-
-Fundamentals of AI and ML Evaluated Course Project
+I have been given an activity in Fundamentals of AI and ML which is Bring Your Own Project (BYOP) in which I have created Student Performance Predictor. It predicts student's performance on some factors like sleep , attendance , study hours and assignments completed.
 
 
 📖 Problem Statement
