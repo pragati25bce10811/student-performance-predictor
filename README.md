@@ -80,7 +80,7 @@ python student-performance-predictor.py
 4. View predicted marks
 
 
-📌 Example Output
+Example Output
 
 The model will display:
 
@@ -89,7 +89,6 @@ The model will display:
 - Model accuracy
 - Predicted marks based on user input
 
----
 
 📊 Evaluation
 
