@@ -76,4 +76,4 @@ prediction = model.predict(new_data)
 
 print(f"Based on your input, predicted marks are: {prediction[0]:.2f}")
 
-print ("\n Prediction completed successfully!")
+print ("Prediction completed successfully!")
