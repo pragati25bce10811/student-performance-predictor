@@ -25,6 +25,7 @@ plt.ylabel("Marks")
 plt.title("Study Hours vs Marks")
 plt.show()
 
+# Step 3 : Define Features and Target
 # Features (input)
 X = df[["hours_study", "attendance", "sleep_hours", "assignments_done"]]
 
