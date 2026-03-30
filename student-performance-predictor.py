@@ -41,7 +41,7 @@ model.fit(X_train, y_train)
 
 print("Model trained successfully!\n")
 
-# Feature Importance
+# Step 6 : Feature Importance
 features = ["hours_study", "attendance", "sleep_hours", "assignments_done"]
 importance = model.coef_
 
