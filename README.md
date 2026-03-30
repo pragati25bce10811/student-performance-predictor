@@ -11,7 +11,6 @@ In daily life, students often struggle to understand how different factors like 
 
 This project aims to solve this problem by predicting student marks based on these real-life factors using Machine Learning.
 
----
 
 🎯 Objective
 
