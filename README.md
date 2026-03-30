@@ -39,16 +39,15 @@ Technologies Used
 
 Features of the Project
 
-- ✔️ Dataset creation (custom sample data)
-- ✔️ Data visualization using graphs
-- ✔️ Machine Learning model training
-- ✔️ Accuracy evaluation using R² score
-- ✔️ Feature importance analysis
-- ✔️ User input-based prediction
+- Dataset creation (custom sample data)
+- Data visualization using graphs
+- Machine Learning model training
+- Accuracy evaluation using R² score
+- Feature importance analysis
+- User input-based prediction
 
----
 
-📈 How It Works
+ How It Works
 
 1. A dataset is created with student-related data
 2. Data is converted into a DataFrame
@@ -60,7 +59,6 @@ Features of the Project
 8. User enters values
 9. Model predicts marks
 
----
 
 ▶️ How to Run the Project
 
