@@ -107,14 +107,13 @@ What Makes This Project Good?
 - Focus on clarity over complexity
 
 
-🚀 Future Improvements
+Future Improvements
 
 - Add real dataset instead of sample data
 - Create a graphical user interface (UI)
 - Improve model accuracy with more data
 - Deploy as a web application
 
----
 
 🙋‍♀️ Conclusion
 
