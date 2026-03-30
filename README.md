@@ -29,16 +29,15 @@ The model takes multiple inputs:
 Based on these inputs, it predicts the expected marks.
 
 
-🛠️ Technologies Used
+Technologies Used
 
 - Python
 - Pandas
 - Matplotlib
 - Scikit-learn
 
----
 
-📊 Features of the Project
+Features of the Project
 
 - ✔️ Dataset creation (custom sample data)
 - ✔️ Data visualization using graphs
