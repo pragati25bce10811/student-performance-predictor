@@ -63,8 +63,8 @@ Features of the Project
 
 
 Code Implementation
-![Code Part 1](screenshots/code_part_1.png)
-![Code Part 2](screenshots/code_part_2.png)
+![Code Part 1](screenshots/code_part 1.png)
+![Code Part 2](screenshots/code part 2.png)
 
 
 How to Run the Project
