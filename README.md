@@ -60,7 +60,7 @@ Features of the Project
 9. Model predicts marks
 
 
-▶️ How to Run the Project
+How to Run the Project
 
 1. Install required libraries:
 
@@ -79,7 +79,6 @@ python student-performance-predictor.py
 
 4. View predicted marks
 
----
 
 📌 Example Output
 
