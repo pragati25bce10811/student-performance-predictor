@@ -16,12 +16,11 @@ The main goal of this project is to:
 - Apply concepts learned in AI & ML course in a practical way
 
 
-💡 Solution Approach
+Solution Approach
 
 To solve the problem, I used Linear Regression, a simple and beginner-friendly Machine Learning algorithm.
 
 The model takes multiple inputs:
-
 - Study hours
 - Attendance
 - Sleep hours
@@ -29,7 +28,6 @@ The model takes multiple inputs:
 
 Based on these inputs, it predicts the expected marks.
 
----
 
 🛠️ Technologies Used
 
