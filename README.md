@@ -2,11 +2,8 @@ Project Title
 I have been given an activity in Fundamentals of AI and ML which is Bring Your Own Project (BYOP) in which I have created Student Performance Predictor. It predicts student's performance on some factors like sleep , attendance , study hours and assignments completed.
 
 
-📖 Problem Statement
-
-In daily life, students often struggle to understand how different factors like study hours, attendance, sleep, and assignments affect their academic performance.
-
-This project aims to solve this problem by predicting student marks based on these real-life factors using Machine Learning.
+Problem Statement
+In daily life, students often struggle to understand how different factors like study hours, attendance, sleep, and assignments affect their academic performance. This project aims to solve this problem by predicting student marks based on these real-life factors using Machine Learning.
 
 
 🎯 Objective
