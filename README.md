@@ -52,12 +52,14 @@ Features of the Project
 1. A dataset is created with student-related data
 2. Data is converted into a DataFrame
 3. Graph is plotted to visualize relationship
+   ![Scatter Plot](screenshots/Study_Hours_vs_Marks_Scatter_plot.png)
 4. Data is split into training and testing sets
 5. Linear Regression model is trained
 6. Model accuracy is calculated
+   
 7. Feature importance is displayed
 8. User enters values
-9. Model predicts marks
+10. Model predicts marks
 
 
 How to Run the Project
