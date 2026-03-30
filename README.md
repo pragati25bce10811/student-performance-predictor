@@ -8,15 +8,13 @@ Problem Statement
 In daily life, students often struggle to understand how different factors like study hours, attendance, sleep, and assignments affect their academic performance. This project aims to solve this problem by predicting student marks based on these real-life factors using Machine Learning.
 
 
-🎯 Objective
+Objective
 
 The main goal of this project is to:
-
 - Predict student marks using basic ML techniques
 - Understand how different features affect performance
 - Apply concepts learned in AI & ML course in a practical way
 
----
 
 💡 Solution Approach
 
