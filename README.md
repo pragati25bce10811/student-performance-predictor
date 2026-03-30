@@ -1,10 +1,9 @@
 Student Performance Predictor
 
-📌 Project Title
+Project Title
 
 Fundamentals of AI and ML Evaluated Course Project
 
----
 
 📖 Problem Statement
 
