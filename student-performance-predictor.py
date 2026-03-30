@@ -1,5 +1,5 @@
 # Student Performance Predictor
-# This project predicts marks based on study habits.
+# A machine learning project that predicts student marks based on study habits, attendance, sleep patterns and assignment completion.
 
 # Import required libraries
 import pandas as pd
