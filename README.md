@@ -90,14 +90,13 @@ The model will display:
 - Predicted marks based on user input
 
 
-📊 Evaluation
+Evaluation
 
 The model performance is evaluated using:
 
 - R² Score (Accuracy Check)
 - Feature importance analysis
 
----
 
 🌟 What Makes This Project Good?
 
