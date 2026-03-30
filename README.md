@@ -42,7 +42,7 @@ Features of the Project
 - Dataset creation (custom sample data)
 - Data visualization using graphs
 - Machine Learning model training
-- Accuracy evaluation using R² score
+- Accuracy evaluation using R² (R-squared) score
 - Feature importance analysis
 - User input-based prediction
 
