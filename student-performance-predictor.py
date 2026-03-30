@@ -58,7 +58,7 @@ plt.ylabel("Importance")
 plt.title("Feature Importance in Prediction")
 plt.show()
     
-# Accuracy Check
+# Step 7 : Accuracy Check
 y_pred = model.predict(X_test)
 print("Model Accuracy (R2 Score):", r2_score(y_test, y_pred))
 
