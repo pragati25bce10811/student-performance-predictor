@@ -62,13 +62,13 @@ plt.show()
 y_pred = model.predict(X_test)
 print("Model Accuracy (R2 Score):", r2_score(y_test, y_pred))
 
-# Take user input
+# Step 8 : Take user input
 hours = float(input("Enter study hours: "))
 attendance = float(input("Enter attendance: "))
 sleep = float(input("Enter sleep hours:"))
 assignments = float(input("Enter assignments done:"))
 
-# Predict
+# Step 9: Prediction
 new_data = pd.DataFrame([[ hours, attendance, sleep, assignments ]] , columns = ["hours_study" , "attendance" , "sleep_hours" , "assignments_done"])
 prediction = model.predict(new_data)
 
