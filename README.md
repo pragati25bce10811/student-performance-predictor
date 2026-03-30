@@ -55,11 +55,11 @@ Features of the Project
    ![Scatter Plot](screenshots/Study_Hours_vs_Marks_Scatter_plot.png)
 4. Data is split into training and testing sets
 5. Linear Regression model is trained
-6. Model accuracy is calculated
-   
+6. Model accuracy is calculated   
 7. Feature importance is displayed
+   ![Feature Importance](screenshots/Feature_importance_plot.png)
 8. User enters values
-10. Model predicts marks
+9. Model predicts marks
 
 
 How to Run the Project
