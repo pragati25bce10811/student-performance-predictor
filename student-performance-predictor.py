@@ -49,7 +49,7 @@ print("\nFeature Importance:")
 for i in range(len(features)):
     print(f"{features[i]}: {importance[i]:.2f}")
 
-# Plot feature Importance Graph
+# Step 7 : Plot feature Importance Graph
 import matplotlib.pyplot as plt
 
 plt.bar(features, importance)
