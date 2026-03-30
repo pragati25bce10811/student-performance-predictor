@@ -32,7 +32,7 @@ X = df[["hours_study", "attendance", "sleep_hours", "assignments_done"]]
 # Target (output)
 y = df["marks"]
 
-# Split dataset
+# Step 4 : Split Dataset
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
 # Train model
