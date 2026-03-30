@@ -19,6 +19,8 @@ data = {
 
 # Step 2 : Convert to DataFrame and visualize data
 df = pd.DataFrame(data)
+print ("Dataset loaded successfully!\n")
+
 plt.scatter(df["hours_study"], df["marks"])
 plt.xlabel("Study Hours")
 plt.ylabel("Marks")
