@@ -62,6 +62,11 @@ Features of the Project
 9. Model predicts marks
 
 
+Code Implementation
+![Code Part 1](screenshots/code_part_1.png)
+![Code Part 2](screenshots/code_part_2.png)
+
+
 How to Run the Project
 
 1. Install required libraries:
@@ -90,6 +95,14 @@ The model will display:
 - Feature importance
 - Model accuracy
 - Predicted marks based on user input
+  
+# Example Predictions
+Topper Student Output:
+![Topper](screenshots/topper_prediction_output.png)
+Average Student Output:
+![Average](screenshots/average_student_prediction.png)
+Poor Student Output:
+![Poor](screenshots/poor_student_prediction.png)
 
 
 Evaluation
