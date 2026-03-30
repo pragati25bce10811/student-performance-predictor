@@ -73,3 +73,5 @@ new_data = pd.DataFrame([[ hours, attendance, sleep, assignments ]] , columns = 
 prediction = model.predict(new_data)
 
 print(f"Based on your input, predicted marks are: {prediction[0]:.2f}")
+
+print ("\n Prediction completed successfully!")
