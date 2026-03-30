@@ -19,13 +19,11 @@ The main goal of this project is to:
 Solution Approach
 
 To solve the problem, I used Linear Regression, a simple and beginner-friendly Machine Learning algorithm.
-
 The model takes multiple inputs:
 - Study hours
 - Attendance
 - Sleep hours
 - Assignments completed
-
 Based on these inputs, it predicts the expected marks.
 
 
