@@ -115,8 +115,7 @@ Future Improvements
 - Deploy as a web application
 
 
-🙋‍♀️ Conclusion
+Conclusion
 
 This project demonstrates how Machine Learning can be used to analyze and predict student performance based on daily habits. It is simple, practical, and clearly shows the application of AI & ML concepts.
 
----
