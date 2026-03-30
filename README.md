@@ -98,7 +98,7 @@ The model performance is evaluated using:
 - Feature importance analysis
 
 
-🌟 What Makes This Project Good?
+What Makes This Project Good?
 
 - Real-life problem (student performance)
 - Simple and clear solution
@@ -106,7 +106,6 @@ The model performance is evaluated using:
 - Easy to understand and run
 - Focus on clarity over complexity
 
----
 
 🚀 Future Improvements
 
